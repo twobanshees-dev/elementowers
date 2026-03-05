@@ -7,9 +7,11 @@
 
 # Build artifacts and releases
 /WindowsBuild/
+/WindowsBuild*/
 /Windows-build/
 /Build/
 /Releases/
+/Releases*/
 
 # Logs and OS/editor files
 *.log
