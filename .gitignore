@@ -1,0 +1,20 @@
+# Unreal Engine generated data
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+
+# Build artifacts and releases
+/WindowsBuild/
+/Windows-build/
+/Build/
+/Releases/
+
+# Logs and OS/editor files
+*.log
+Thumbs.db
+.DS_Store
+*.VC.db
+*.VC.opendb
+*.sln
